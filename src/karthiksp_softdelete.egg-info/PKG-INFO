@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: karthiksp_softdelete
+Version: 0.0.1
+Summary: This repository contains a soft delete model implementation designed to streamline data management by minimizing the need to manually update 'deleted' flags. Soft delete models allow for seamless removal of records from the active dataset while retaining the ability to recover or reference them if needed
+Author-email: karthikeyan sp <karthiksp2019@zohomail.in>
+Project-URL: Homepage, https://github.com/karthiksp22/soft_delete/tree/main
+Project-URL: Issues, https://github.com/karthiksp22/soft_delete/tree/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE

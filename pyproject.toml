@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+
+[project]
+name = "karthiksp_softdelete"
+version = "0.0.1"
+authors = [
+  { name="karthikeyan sp", email="karthiksp2019@zohomail.in" },
+]
+description = "This repository contains a soft delete model implementation designed to streamline data management by minimizing the need to manually update 'deleted' flags. Soft delete models allow for seamless removal of records from the active dataset while retaining the ability to recover or reference them if needed"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/karthiksp22/soft_delete/tree/main"
+Issues = "https://github.com/karthiksp22/soft_delete/tree/issues"

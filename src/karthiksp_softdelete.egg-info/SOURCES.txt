@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+src/karthiksp_softdelete.egg-info/PKG-INFO
+src/karthiksp_softdelete.egg-info/SOURCES.txt
+src/karthiksp_softdelete.egg-info/dependency_links.txt
+src/karthiksp_softdelete.egg-info/top_level.txt
+src/soft_delete/__init__.py
+src/soft_delete/delete_history.py
+src/soft_delete/models.py
